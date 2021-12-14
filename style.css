@@ -1,0 +1,49 @@
+
+/* animations */
+
+
+body{
+    background-color: #121212;
+}
+
+header{
+    
+    min-height: fit-content;
+    color: white;
+    margin-bottom: 100px;
+    
+}
+.navbar a {
+    color: white;
+}
+.navbar-toggler{
+ font-size: 1.5rem;
+ color: white;
+ align-items: center;
+}
+
+#FF5769
+
+.btn:focus , .navbar-toggler:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.btn{
+    color: white;
+}
+.btn:focus{
+    background-color: #ED1C24 ;
+}
+.spaces{
+    color: white;
+    background-color: #303030;
+}
+.space-item h3{
+    color: #D80164;
+}
+.screenshots{
+    color:white;
+    min-height: fit-content;
+}
+
